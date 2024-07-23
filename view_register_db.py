@@ -15,4 +15,4 @@ for row in rows:
     print(row)
 
 # Close the database connection
-conn.close()
+conn.close(
