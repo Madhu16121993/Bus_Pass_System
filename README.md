@@ -17,7 +17,8 @@ Our goal is to deliver a web-based Online Bus Pass Application System which is a
 
 **bash**
 Copy code
-git clone https://github.com/Preet2208/Online-Bus-Pass-System.git
+git clone https://github.com/Madhu16121993/Bus_Pass_System.git
+
 
 **Install dependencies:**
 Copy code
