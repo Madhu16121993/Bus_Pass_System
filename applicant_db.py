@@ -18,7 +18,7 @@ cursor.execute('''
         residence TEXT NOT NULL,
         permanent TEXT NOT NULL,
         pass_type TEXT NOT NULL
-    
+    )
 ''')
 
 # Sample data to be inserted
