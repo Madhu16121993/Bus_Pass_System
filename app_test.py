@@ -29,5 +29,5 @@ def test_login(client):
     response = client.post('/login', data={
         "login_email": "156@gmail.com",
         "login_password": "156"
-    }, follow_redirects=True
+    }, follow_redirects=True)
     assert b'Dashboard' in response.data
