@@ -397,4 +397,4 @@ if __name__ == '__main__':
     init_admin_db()
     init_applicant_db()
     init_payment_db()
-    app.run(debug=True)
+    app.run(debug=True
